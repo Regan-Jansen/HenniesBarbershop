@@ -1,6 +1,6 @@
 # HenniesBarbershop
 
-This a website I created for a barberhshop that use to be in my area but unfortunatelt closed down
+This a website I created for a barberhshop that use to be in my area but unfortunately it closed down.
 
 I created this website using HTML. CSS and javascript
 
